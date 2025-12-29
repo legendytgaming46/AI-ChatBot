@@ -69,6 +69,7 @@ if st.sidebar.button("🔄 Reset Conversation"):
     st.session_state.messages = []
     st.experimental_rerun()
 
+st.markdown('**Design and devlovped by: Aditya Gupta**')
 
 
 
